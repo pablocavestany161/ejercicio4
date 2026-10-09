@@ -1,0 +1,3 @@
+mates 1
+lengua 2
+sociales 3
